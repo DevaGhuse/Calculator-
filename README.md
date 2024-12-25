@@ -22,13 +22,6 @@ Java Development Kit (JDK) version 17 or later.
 
 Basic knowledge of Java to understand or modify the code if needed.
 
-Getting Started
-
-Clone the Repository
-
-git clone https://github.com/your-username/java-calculator.git
-cd java-calculator
-
 Compile and Run the Application
 
 Compile the Java code:
